@@ -2,6 +2,10 @@
 
 HIYA-AI is an AI-powered iOS healthcare assistant application designed to provide intelligent healthcare support, symptom guidance, and an interactive user experience using modern AI technologies.
 
+The app focuses on creating a smooth and engaging user experience while demonstrating modern iOS development practices with AI integration.
+
+---
+
 ## 📌 Features
 
 * 🤖 AI-powered healthcare assistant
@@ -10,16 +14,35 @@ HIYA-AI is an AI-powered iOS healthcare assistant application designed to provid
 * 📱 Native iOS application
 * ⚡ Fast and responsive user experience
 * 🎨 Modern and user-friendly UI
+* 🌙 Beautiful dark-themed interface
 * 🔒 Secure and reliable architecture
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Hiya/Screenshots/IMG_7579.PNG" width="230"/>
+  <img src="Hiya/Screenshots/IMG_7578.PNG" width="230"/>
+  <img src="Hiya/Screenshots/IMG_7577.PNG" width="230"/>
+</p>
+
+<p align="center">
+  <b>Launch Screen</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Welcome Screen</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Interactive Screen</b>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 * Swift
-* SwiftUI / UIKit
+* SwiftUI
 * Xcode
-* OpenAI API / AI Integration
+* AI Integration
 * iOS Native Development
 
 ---
@@ -73,20 +96,8 @@ Run the project using the iOS Simulator or a physical iPhone device.
 
 1. Launch the application
 2. Interact with the AI healthcare assistant
-3. Enter symptoms or healthcare-related questions
-4. Receive AI-generated healthcare guidance and responses
-
----
-
-## 📸 Screenshots
-
-Add screenshots or demo GIFs here.
-
-Example:
-
-```md
-![App Screenshot](./screenshots/home.png)
-```
+3. Explore the interactive onboarding screens
+4. Experience AI-powered healthcare guidance
 
 ---
 
@@ -101,6 +112,7 @@ HIYA-AI is intended for educational and informational purposes only. It should n
 Dhruv Patel
 
 * GitHub: https://github.com/DhruvPatel05
+* LinkedIn: https://www.linkedin.com/in/dhruv-patel-csm/
 
 ---
 
